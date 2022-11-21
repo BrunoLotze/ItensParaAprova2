@@ -1,0 +1,97 @@
+﻿Sumário P2 estatistica
+
+
+AULAS TEÓRICAS
+
+
+Aula 15) Teste de Hipótese, Estabelecendo uma hipótese, Tipos de erro e nível de significância, testes estáticos e valores p, tomando uma decisão e interpretando-a, passos para o teste de hipótese,
+
+
+Aula 16) Usando valores p para tomar decisões, usando valores p em um teste z
+
+
+Aula 17) Regiões de rejeição e valores críticos, usando regiões de rejeição para um teste z, usando valores p em um teste z,
+
+
+Aula 18) Valores críticos em uma distribuição t, o teste t para uma média mi
+
+
+Aula 19) Valores críticos para um teste qui-quadrado, o teste chi-quadrado
+
+
+Aula 20) Amostras independentes e dependentes, visão geral testes com 2 amostras, o teste z com duas amostras, o teste t com duas amostras
+
+
+Aula 21) Teste t para diferenças entre médias,
+
+
+Aula 22) Visão geral da correlação, coeficiente de correção linear, coeficiente de correlação populacional, teste t para coeficiente de correlação populacional p, correlação e causalidade
+
+
+Aula 23) Retas de regressão, prevendo valores usando equações de regressão
+
+
+NOTEBOOKS PROFESSOR
+
+
+Aula 15)
+
+
+Aula 16)
+1. Construindo uma função para o teste de hipótese da média
+(𝜎 conhecido)
+2. Teste unilateral à esquerda
+3. Emulando um conjunto de dados para uso da função ztest
+4. Teste unilateral à direita 
+5. ztest
+6. Teste bilateral
+7. ztest
+8. Usando conjunto de dados
+
+
+Aula 17)
+1. Função teste_z para o teste de hipótese da média
+2. Função teste_z_alt para o teste de hipótese da média
+3. Usando conjunto de dados
+
+
+Aula 18)
+1. Valores críticos em uma distribuição t
+2. Função teste_t para o teste de hipótese da média
+3. Teste unilateral à esquerda
+4. Emulando um conjunto de dados para uso da função ttest_1samp
+5. Teste unilateral à direita
+6. ttest_1samp
+7. Teste bilateral
+8. ttest_1samp
+9. Usando um conjunto de dados
+
+
+Aula 19)
+1. Valores críticos em uma distribuição x2
+2. Função teste_chi2 para o teste de hipótese da variância e desvio padrão
+
+
+Aula 20)
+1. Função teste_z2 para o teste de hipótese da diferença entre médias
+2. A função ztest do Python
+3. Função teste_t2 para o teste de hipótese da diferença entre médias
+4. A função ttest_ind do Pyhton
+
+
+Aula 21)
+1. Função ttest_rel do Python
+
+
+Aula 22)
+1. Correlação
+2. Função plt do python
+3. Diagramas
+4. Coeficiente de correlação linear
+5. Métodos para cálculo de correlação
+6. Teste t para coeficiente de correlação populacional 𝜌
+
+
+Aula 23)
+1. Regressão Linear
+2. Função linearregression com plt
